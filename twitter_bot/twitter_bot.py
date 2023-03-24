@@ -1,9 +1,6 @@
 # mytwitterbot.py
-# IAE 101, Fall 2020
 # Project 04 - Building a Twitterbot
-# Name: Lexin Chen    
-# netid: lexchen
-# Student ID: 111763005
+# Lexin Chen    
 
 import sys
 import time
