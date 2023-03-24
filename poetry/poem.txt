@@ -1,0 +1,3 @@
+The poem has four lines and it follows the 010101 pattern with alternating stress and unstressed words. 
+There are 6 syllables in each line. 
+There is no rhyming scheme. 
