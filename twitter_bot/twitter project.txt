@@ -1,6 +1,4 @@
-wLexin Chen 
-lexchen
-111763005
+Lexin Chen 
 
 I completed two bots for this projects as described on my twitterbot description. 
 
