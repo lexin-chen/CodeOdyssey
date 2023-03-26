@@ -1,9 +1,8 @@
-Lexin Chen 
-
 I completed two bots for this projects as described on my twitterbot description. 
 
 Bot #1- whenever an account mentions me @iae101lexchen using the hashtag, #goodday, an automated message from the bot will be replied to the user with <#goodday to you too, bless you>. 
 You may need to physically tweet <@iae101lexchen #goodday> for this to work because existing tweets that have been replied to are duplicates. 
+
 **The account you are using must to be public and/or that account needs to follow my account @iae101lexchen**
 
 
